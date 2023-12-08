@@ -15,7 +15,6 @@ Trend Wave Shop is an e-commerce web application developed to provide a seamless
 
 ## Technologies Used
 - React
-- Redux for state management
 - React Router for routing
 - Use database MongoDB
 - Axios for making API requests
